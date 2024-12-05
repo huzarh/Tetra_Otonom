@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- turtlesim düğümğ -->
+    <node pkg="turtlesim" type="turtlesim_node" name="tosbaa"/>
+
+    <!-- ucgen hareket düğümü -->
+    <node pkg="package_one" type="ucgen.py" name="ucgen_cizdir"/>
+</launch>

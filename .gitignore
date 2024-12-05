@@ -1,0 +1,14 @@
+# ROS build dosyaları catkin_makede oluşacaktır 
+build/
+devel/
+logs/
+.catkin_workspace
+.catkin_tools/
+
+# pip dosiyalar
+*.pyc
+__pycache__/
+
+# cache vb...
+.DS_Store
+Thumbs.db

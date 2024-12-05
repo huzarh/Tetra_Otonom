@@ -1,0 +1,7 @@
+<launch>
+  <!-- Gazebo simülasyonunu başlat -->
+  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch" />
+
+  <!-- RViz'i başlat -->
+  <include file="$(find turtlebot3_rviz_launchers)/launch/view_navigation.launch" />
+</launch>
