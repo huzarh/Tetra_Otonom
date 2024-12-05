@@ -1,6 +1,4 @@
 # Tetra_Otonom
 ### 1-TurtleBot
 
-<video width="320" height="240" controls>
-  <source src="src/screen_records/ucgen_turtlesim.webm" type="video/webm">
-</video>
+[Videoyu buradan izleyebilirsiniz](https://github.com/huzarh/Tetra_Otonom/blob/master/screen_records/ucgen_turtlesim.webm)
