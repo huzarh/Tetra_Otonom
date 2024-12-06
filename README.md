@@ -1,7 +1,6 @@
 # Tetra_Otonom
 ### 1-TurtleBot
 
-![Proje Görseli](https://github.com/huzarh/Tetra_Otonom/blob/master/screen_records/ucgen_turtlesim.webm)
 
 ![1](https://github.com/huzarh/Tetra_Otonom/blob/master/screen_records/1.png)
 \n\n\n
