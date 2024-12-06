@@ -36,3 +36,5 @@ rosrun package_one nesne_markez.py
 ```
 ## 🛠 Source
 Tetra, Ros noetic docs, Yolov8 docs,Tetra eğitim videosu,Youtube,chatGPT
+
+İletişim: +905437189425
