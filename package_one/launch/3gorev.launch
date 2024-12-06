@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="package_one" type="nesne_markez.py" name="nesne_tanıma"/>
+    <node pkg="package_one" type="360donme.py" name="don"/>
+</launch>

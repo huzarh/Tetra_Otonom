@@ -12,3 +12,5 @@ __pycache__/
 # cache vb...
 .DS_Store
 Thumbs.db
+/note
+/package_one/test
