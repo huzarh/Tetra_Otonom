@@ -3,7 +3,7 @@
 
 
 ![1](https://github.com/huzarh/Tetra_Otonom/blob/master/screen_records/1.png)
-\n\n\n
+\n                       \n                              \n
 [📹️ 1. Videoyu buradan izleyebilirsiniz](https://github.com/huzarh/Tetra_Otonom/blob/master/screen_records/ucgen_turtlesim.webm)
  
 
