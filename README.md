@@ -30,5 +30,9 @@ rosrun package_one mesafeLidar.py
 ```shell
 roslaunch package_one 3gorev.launch
 ```
+sadece dümü çalıştırma
+```shell
+rosrun package_one nesne_markez.py 
+```
 ## 🛠 Source
 Tetra, Ros noetic docs, Yolov8 docs,Tetra eğitim videosu,Youtube,chatGPT
